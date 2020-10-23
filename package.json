@@ -1,0 +1,15 @@
+{
+  "name": "friendsApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sunil Yadav",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6"
+  }
+}
